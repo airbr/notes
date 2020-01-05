@@ -1,12 +1,12 @@
 # Law (Love?) Notes
 
-### Hobby side project to release into the creative commons a set of transcribed notes from havin done a law degree and do some analysis/remixing 
+### Hobby side project to release a set of transcribed notes from a law degree and do some analysis/remixing 
 
 
 
 #### Ideas:
 
-* Create Git Repository, in incredibly unlikely event these out of date notes would be useful to anyone. 
+* Create and push a Git Repository, in incredibly unlikely event these out of date notes would be useful to anyone. ✅
 
 * License the project to be as permissive as possible - MIT?
 
@@ -63,4 +63,4 @@ It was a heavy large trunk of paper. At the time, I paid a good friend to help m
  
 ## License 
 
-TBD
+TB
