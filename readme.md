@@ -1,6 +1,6 @@
-# Law (Love?) Notes
+# Law Notes 
 
-### Hobby side project to release a set of transcribed notes from a law degree and do some analysis/remixing 
+### Hobby side project to release a set of transcribed notes from a law degree and do some text analysis/remixing 
 
 
 
@@ -15,7 +15,11 @@
 
 * Commit a plain text version of the notes  ✅ 
 
-* Find the most commonly occurring word in notes
+* Find the most commonly occurring word in notes	
+  * [Get text-file word occurrence count of all words & print output sorted](https://unix.stackexchange.com/questions/39039/get-text-file-word-occurrence-count-of-all-words-print-output-sorted)  	✅ 
+
+ ``$ cat Law\ notes.txt  | tr '[:space:]' '[\n*]' | grep -v "^\s*$" | sort | uniq -c | sort -bnr`
+
 
 * Find words that occur exactly once
 
