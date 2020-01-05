@@ -15,6 +15,16 @@
 
 * Commit a plain text version of the notes  ✅ 
 
+* Find the most commonly occurring word in notes
+
+* Find words that occur exactly once
+
+* Find % of document that are citations
+
+* Run Python in a Jupyter Notebook on the notes
+
+* Create a HTML CSS only viewer of the notes
+
 * Do something with machine learning with the notes (stretch goal)
 
 * Create a `fortune` like Unix program or script that returns a fragment of the notes on command
@@ -60,8 +70,6 @@ It was a heavy large trunk of paper. At the time, I paid a good friend to help m
 
 ![2015](images/handwriting2.png)
 
- Fast forward to 2020 and I haven't touched a law book since 2015 when I last studied for my Legal Professionals exam's (equivalent of the bar exam in New Zealand). Since then I have made a career change and worked a web developer for just under three years- but you can find all about that at [my website](morganwebdev.com).
- 
  
  
 ## License 
