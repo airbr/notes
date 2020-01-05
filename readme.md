@@ -61,15 +61,16 @@ A huge portion of the notes are case citations without no surrounding context-  
 
 ## About this project
 
- When I did my undergraduate Bachelors of Law degree (LLB) in New Zealand at Otago University I read an enormous amount over 5 years. I was assigned even more than I was able to finish: It is a pretty rigorous course as any graduate will tell you. Almost every course had a large printout of course materials. I have a collectors streak so I kept all my printouts and notes in a large plastic trunk well until after graduation into 2015:
+ When I did my undergraduate Bachelors of Law degree (LLB) in New Zealand at Otago University I read an enormous amount. I was assigned even more than I was able to finish: It is a pretty rigorous course as any graduate will tell you. Almost every course had a large printout of course materials. I have a collectors streak so I kept all my printouts and notes in a large plastic trunk well until after graduation into 2015:
 
 ![2015](images/trunkofnotes.png)
 
-It was a heavy large trunk of paper. At the time, I paid a good friend to help me transcribe all of my handwritten notes. I really appreciated it this since my handwriting is and was terrible. I couldn't continue to lug around the scribbled notes forever.
+It was a heavy large trunk of paper. At the time, I paid a good friend to help me transcribe all of my handwritten notes and I recycled the printouts. I really appreciated this since my handwriting is and was terrible. I couldn't continue to lug around the scribbled notes forever.
 
 
 ![2015](images/handwriting2.png)
 
+Now for some reason in 2020 I am I guess attempting to resurrect them.
  
  
 ## License 
