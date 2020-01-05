@@ -11,7 +11,9 @@
 * License the project to be as permissive as possible - MIT?
 
 * Perform `wc` on the notes. ✅
+       * `wc` after making plain text ✅
 
+* Commit a plain text version of the notes  ✅ 
 
 * Do something with machine learning with the notes (stretch goal)
 
@@ -20,31 +22,32 @@
 
 ## About the Notes
 
-Transcribed from notes created 2009-2014 doing a law degree at Otago.
+Transcribed from notes created 2009-2013 doing a law degree at Otago.
 
-A huge portion of the notes are case citations without no surrounding context-  often just a note that I am to be aware and read portions of the case.
+A huge portion of the notes are case citations without no surrounding context-  at the time it was often just a note that I am to be aware and read portions of the case.
 
 
  Word count in .doc and .docx using Pages: <b>19,366 words</b>
 
 #### WC Output:
 
-	in	notes/transcribed on master▲
+	notes/transcribed on master
 	$ wc *
      459   22556  393728 Law notes.doc
      832    5888  198030 Law notes.docx
     3526   21737  477315 Law notes.pdf
     4817   50181 1069073 total
 
+	notes/edited on master
+	$ wc *
+    2581   19284  117037 Law notes.txt
 
 
 ### 
 
 ## About this repo:
 
-* `transcribed/` contains the original transcribed notes delivered to me. Ill remix them in `analysis`
-
-
+* `transcribed/` contains the 'original' transcribed notes delivered to me in .doc/.docx/.pdf. Ill remix them in `edited` contains edited versions including the plain text version
 
 ## About this project
 
@@ -63,4 +66,4 @@ It was a heavy large trunk of paper. At the time, I paid a good friend to help m
  
 ## License 
 
-TB
+TBD
