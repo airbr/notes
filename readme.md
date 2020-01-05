@@ -16,14 +16,16 @@
 * Commit a plain text version of the notes  ✅ 
 
 * Find the most commonly occurring word in notes	
-  * [Get text-file word occurrence count of all words & print output sorted](https://unix.stackexchange.com/questions/39039/get-text-file-word-occurrence-count-of-all-words-print-output-sorted)  	✅ 
+  * [Stack Overflow link: Get text-file word occurrence count of all words & print output sorted](https://unix.stackexchange.com/questions/39039/get-text-file-word-occurrence-count-of-all-words-print-output-sorted)  	✅ 
 
- ``$ cat Law\ notes.txt  | tr '[:space:]' '[\n*]' | grep -v "^\s*$" | sort | uniq -c | sort -bnr`
-
-
-* Find words that occur exactly once
+* Find words that occur exactly once^*^* ✅ 
 
 * Find % of document that are citations
+
+>	* challenge: Find all case citations (matches words immediately preceding and after a v
+>	* i.e match entirety of "James v John"
+>
+> Create regex?
 
 * Run Python in a Jupyter Notebook on the notes
 
@@ -58,6 +60,45 @@ A huge portion of the notes are case citations without no surrounding context-  
 
 
 ### 
+
+#### Occurrences of words/fragments
+
+```$ cat occurrencelist.txt 
+ 738 v
+ 522 of
+ 353 and
+ 279 the
+ 279 NZLR
+ 234 Act
+ 177 Ltd
+ 175 2
+ 169 1
+ 159 R
+ 154 in
+ 148 Law
+ 147 New
+ 132 (CA)
+ 131 The
+ 116 •
+ 113 s
+ 109 to
+ 104 3
+  94 ss
+  80 &
+  78 on
+  73 Zealand
+  68 NZFLR
+  67 for
+  67 CM
+  61 International
+  59 Rights
+  58 –
+  55 J
+  54 pp
+  54 NZRMA
+  50 a
+```
+
 
 ## About this repo:
 
