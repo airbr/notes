@@ -118,8 +118,7 @@ It was a heavy large trunk of paper. At the time, I paid a good friend to help m
 
 ![2015](images/handwriting2.png)
 
-Now for some reason in 2020 I am I guess attempting to resurrect them.
- 
+Why is any of this relevant in 2020, I don't know? It just seemed like a way to dust off an old file and find some new value.
  
 ## License 
 
