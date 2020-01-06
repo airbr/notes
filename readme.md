@@ -1,8 +1,6 @@
 # Law Notes 
 
-### Hobby side project to release a set of transcribed notes from a law degree and do some text analysis/remixing 
-
-
+### Hobby side project to release a set of transcribed notes from a law degree and do some text analysis/remixing: [pre tag boilerplate of notes deployed on GitHub pages]( https://airbr.github.io/notes/)
 
 #### Ideas:
 
