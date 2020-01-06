@@ -23,7 +23,12 @@
 >	* challenge: Find all case citations (matches words immediately preceding and after a v
 >	* i.e match entirety of "James v John"
 >
-> Create regex?
+> Create regex? 
+
+* [Run program to create a word cloud](https://github.com/amueller/word_cloud) ✅ 
+	* [Repo for Word Cloud library](https://github.com/amueller/word_cloud) 	
+
+![](images/wordcloud.png) 
 
 * Run Python in a Jupyter Notebook on the notes
 
@@ -59,7 +64,7 @@ A huge portion of the notes are case citations without no surrounding context-  
 
 ### 
 
-#### Occurrences of words/fragments
+#### Occurrences of words/fragments 
 
 ```$ cat occurrencelist.txt 
  738 v
