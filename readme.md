@@ -1,6 +1,9 @@
-# Law Notes 
+## Law Notes 
 
-### Hobby side project to release a set of transcribed notes from a law degree and do some text analysis/remixing: [pre tag boilerplate of notes deployed on GitHub pages]( https://airbr.github.io/notes/)
+#### See [the notes deployed on GitHub Pages](https://airbr.github.io/notes/) 
+
+### Hobby side project to do some text analysis and generally demonstrate a bunch of small skills handling, versioning, remixing a file.
+
 
 #### Ideas:
 
@@ -114,7 +117,7 @@ A huge portion of the notes are case citations without no surrounding context-  
 ![2015](images/trunkofnotes.png)
 
 It was a heavy large trunk of paper. At the time, I paid a good friend to help me transcribe all of my handwritten notes and I recycled the printouts. I really appreciated this since my handwriting is and was terrible. I couldn't continue to lug around the scribbled notes forever.
-
+#
 
 ![2015](images/handwriting2.png)
 
