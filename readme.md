@@ -26,14 +26,19 @@
 >	* challenge: Find all case citations (matches words immediately preceding and after a v
 >	* i.e match entirety of "James v John"
 >
-> Create regex? 
+> Updated: used some basic Regex with Python to make a first attempt at extracting all the case names
+> at: `edited/regexmatches.txt`
 
 * [Run program to create a word cloud](https://github.com/amueller/word_cloud) ✅ 
 	* [Repo for Word Cloud library](https://github.com/amueller/word_cloud) 	
 
 ![](images/wordcloud.png) 
 
-* Run Python in a Jupyter Notebook on the notes
+* Install and create a Jupyter Notebook on the notes  ✅ 
+
+* Remix a Python Glitch App with the notes  ✅
+
+### [Check it out at Glitch](https://aquamarine-cobalt.glitch.me/)
 
 * Create a HTML CSS only viewer of the notes
 
