@@ -40,16 +40,6 @@
 
 #### [Check it out at Glitch](https://glitch.com/~aquamarine-cobalt)
 
-<!-- Copy and Paste Me -->
-<div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
-  <iframe
-    src="https://glitch.com/embed/#!/embed/aquamarine-cobalt?path=server.py&previewSize=100"
-    title="aquamarine-cobalt on Glitch"
-    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
-    style="height: 100%; width: 100%; border: 0;">
-  </iframe>
-</div>
-
 * Create a HTML CSS only viewer of the notes
 
 * Do something with machine learning with the notes (stretch goal)
