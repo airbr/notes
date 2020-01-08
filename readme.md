@@ -38,7 +38,7 @@
 
 * Remix a Python Glitch App with the notes  ✅
 
-### [Check it out at Glitch](https://aquamarine-cobalt.glitch.me/)
+#### [Check it out at Glitch](https://glitch.com/~aquamarine-cobalt)
 
 * Create a HTML CSS only viewer of the notes
 
