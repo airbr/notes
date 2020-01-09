@@ -1,0 +1,12 @@
+[package]
+name = "hello_world" # the name of the package
+version = "0.1.0"    # the current version, obeying semver
+authors = ["Alice <a@example.com>", "Bob <b@example.com>"]
+
+[[bin]]
+name = "test"
+path = "getrandomline.rs"
+
+[dependencies]
+rand = "0.6.5"
+easy_reader = "0.5.0"
