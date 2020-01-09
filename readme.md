@@ -10,7 +10,7 @@
 * Create and push a Git Repository, in incredibly unlikely event these out of date notes would be useful to anyone. ✅
 * License the project to be as permissive as possible - MIT?
 * Perform `wc` on the notes. ✅
-       * `wc` after making plain text ✅
+       * `wc` after making plain text ✅mmi
 * Commit a plain text version of the notes  ✅ 
 * Find the most commonly occurring word in notes	
   * [Stack Overflow link: Get text-file word occurrence count of all words & print output sorted](https://unix.stackexchange.com/questions/39039/get-text-file-word-occurrence-count-of-all-words-print-output-sorted)  	✅ 
@@ -22,7 +22,6 @@
 > at: `edited/regexmatches.txt`
 * [Run program to create a word cloud](https://github.com/amueller/word_cloud) ✅ 
 	* [Repo for Word Cloud library](https://github.com/amueller/word_cloud) 	
-![](images/wordcloud.png) 
 * Install and create a Jupyter Notebook on the notes  ✅ 
 * Remix a Python Glitch App with the notes  ✅
 ### [Check it out at Glitch](https://glitch.com/~aquamarine-cobalt)
@@ -40,7 +39,10 @@ Transcribed from notes created 2009-2013 doing a law degree at Otago.
 A huge portion of the notes are case citations without no surrounding context-  at the time it was often just a note that I am to be aware and read portions of the case.
 
 
- Word count in .doc and .docx using Pages: <b>19,366 words</b>
+ ##### Word count in .doc and .docx using Pages: <b>19,366 words</b>
+
+![](images/wordcloud.png) 
+
 
 #### WC Output:
 
