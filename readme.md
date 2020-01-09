@@ -37,8 +37,7 @@
 * Install and create a Jupyter Notebook on the notes  ✅ 
 
 * Remix a Python Glitch App with the notes  ✅
-
-#### [Check it out at Glitch](https://glitch.com/~aquamarine-cobalt)
+### [Check it out at Glitch](https://glitch.com/~aquamarine-cobalt)
 
 * Create a HTML CSS only viewer of the notes
 
@@ -46,6 +45,7 @@
 
 * Create a `fortune` like Unix program or script that returns a fragment of the notes on command
 
+* Create a twitter bot that posts snippets of the text
 
 ## About the Notes
 
