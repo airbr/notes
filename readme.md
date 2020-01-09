@@ -8,47 +8,29 @@
 #### Ideas:
 
 * Create and push a Git Repository, in incredibly unlikely event these out of date notes would be useful to anyone. ✅
-
 * License the project to be as permissive as possible - MIT?
-
 * Perform `wc` on the notes. ✅
        * `wc` after making plain text ✅
-
 * Commit a plain text version of the notes  ✅ 
-
 * Find the most commonly occurring word in notes	
   * [Stack Overflow link: Get text-file word occurrence count of all words & print output sorted](https://unix.stackexchange.com/questions/39039/get-text-file-word-occurrence-count-of-all-words-print-output-sorted)  	✅ 
-
 * Find words that occur exactly once^*^* ✅ 
-
 * Find % of document that are citations
-
 >	* challenge: Find all case citations (matches words immediately preceding and after a v
 >	* i.e match entirety of "James v John"
->
 > Updated: used some basic Regex with Python to make a first attempt at extracting all the case names
 > at: `edited/regexmatches.txt`
-
 * [Run program to create a word cloud](https://github.com/amueller/word_cloud) ✅ 
 	* [Repo for Word Cloud library](https://github.com/amueller/word_cloud) 	
-
 ![](images/wordcloud.png) 
-
 * Install and create a Jupyter Notebook on the notes  ✅ 
-
 * Remix a Python Glitch App with the notes  ✅
 ### [Check it out at Glitch](https://glitch.com/~aquamarine-cobalt)
-
 * Find script to find a random sentence in Java, Ruby ✅
-
+* Encrypt the text with gpg ✅
 * Create a HTML CSS only viewer of the notes
-
-* Create a HTML CSS only viewer of the notes
-
 * Do something with machine learning with the notes (stretch goal)
-
 * Create a `fortune` like Unix program or script that returns a fragment of the notes on command
-
 * Create a twitter bot that posts snippets of the text
 
 ## About the Notes
