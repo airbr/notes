@@ -10,7 +10,7 @@
 * Create and push a Git Repository, in incredibly unlikely event these out of date notes would be useful to anyone. ✅
 * License the project to be as permissive as possible - MIT?
 * Perform `wc` on the notes. ✅
-       * `wc` after making plain text ✅mmi
+       * `wc` after making plain text ✅guit
 * Commit a plain text version of the notes  ✅ 
 * Find the most commonly occurring word in notes	
   * [Stack Overflow link: Get text-file word occurrence count of all words & print output sorted](https://unix.stackexchange.com/questions/39039/get-text-file-word-occurrence-count-of-all-words-print-output-sorted)  	✅ 
@@ -30,7 +30,9 @@
 * Create a HTML CSS only viewer of the notes
 * Do something with machine learning with the notes (stretch goal)
 * Create a `fortune` like Unix program or script that returns a fragment of the notes on command
-* Create a twitter bot that posts snippets of the text
+* Create a twitter bot that posts snippets of the text ✅
+    * Live at [@OObiter](https://twitter.com/OObiter)
+    ![twitterscreenshot](images/twitterbot.png)
 
 ## About the Notes
 
