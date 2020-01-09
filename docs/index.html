@@ -13,14 +13,37 @@
 </head>
 
 <body>
-  <div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
-    <iframe
-      src="https://glitch.com/embed/#!/embed/aquamarine-cobalt?path=server.py&previewSize=100"
-      title="aquamarine-cobalt on Glitch"
-      allow="geolocation; microphone; camera; midi; vr; encrypted-media"
-      style="height: 100%; width: 100%; border: 0;">
-    </iframe>
-  </div>
+<div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
+  <iframe
+    src="https://glitch.com/embed/#!/embed/aquamarine-cobalt?path=server.py&previewSize=100"
+    title="aquamarine-cobalt on Glitch"
+    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>
+
+<div style="height: 250px; width: auto;">
+
+   <button style="width :400px; height: 200px;" onclick="getRandomLine()"> Get Random Line </button>
+
+   <script>
+
+    function getRandomLine() {
+      var data = document.querySelector('pre').innerText
+      // Not precise"
+      var lines = data.split("       ");
+      //Random item number
+      var r = Math.floor(Math.random() * lines.length);
+      //Get random line
+      var line = lines[r];
+      alert(line);
+    } 
+  
+   </script>
+
+</div>
+
+
 
     <pre><code>   Wills and Trusts – 2010
 
