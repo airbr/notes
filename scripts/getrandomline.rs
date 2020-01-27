@@ -1,12 +1,11 @@
 // Usage: cargo run ../edited/lawnotes.txt 
+extern crate rand;
 
 use std::fs::File;
 use std::io::{BufRead, BufReader, Seek, SeekFrom};
 // use rand::distributions::{IndependentSample, Range};
 use std::path::Path;
 use rand::Rng;
-
-extern crate rand;
 
 struct RandomLiner {
   reader: BufReader<File>,
@@ -38,7 +37,7 @@ impl RandomLiner {
     if self.positions.is_empty() {
       panic!("no lines");
     }
-    let mut rng = rand::thread_rng();
+    let _rng = rand::thread_rng();
     // let index = Range::new(0, self.positions.len()).ind_sample(&mut rng);
     let num = rand::thread_rng().gen_range(0, 2582);   
      self.reader.seek(SeekFrom::Start(self.positions[num] as u64)).unwrap();

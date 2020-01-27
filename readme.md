@@ -4,7 +4,6 @@
 
 ### Hobby side project to do some text analysis and generally demonstrate a bunch of small skills handling, versioning, remixing a file.
 
-
 #### Ideas:
 
 * Create and push a Git Repository, in incredibly unlikely event these out of date notes would be useful to anyone. ✅
@@ -60,7 +59,22 @@ A huge portion of the notes are case citations without no surrounding context-  
     2581   19284  117037 Law notes.txt
 
 
-### 
+##### Scripts area notes/scripts:
+
+A bunch of scripts in different languages to get a random line from the notes
+
+* Executable `./getrandomline`
+* AWK `awk -f getrandomline.awk ../edited/lawnotes.txt`
+* Java
+    * `javac GetRandomLine.java` 
+    * `java GetRandomLine` 
+* Python `python getrandomline.py` 
+* Ruby `ruby getrandomline.rb` 
+* Rust `cargo run ../edited/lawnotes.txt`
+* Shell Script
+    * v1 `sh getrandomline.sh`
+    * v2 `sh getrandomline2.sh ../edited/lawnotes.txt`
+* Go `go run getrandomline.go`    
 
 #### Occurrences of words/fragments 
 
