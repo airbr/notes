@@ -2,14 +2,14 @@
 
 #### See [the notes deployed on GitHub Pages](https://airbr.github.io/notes/) 
 
-### Hobby side project to do some text analysis and generally demonstrate a bunch of small skills handling, versioning, remixing a file.
+### Hobby side project to do some text analysis and generally demonstrate a bunch of small skills handling a file.
 
 #### Ideas:
 
 * Create and push a Git Repository, in incredibly unlikely event these out of date notes would be useful to anyone. ✅
 * License the project to be as permissive as possible - MIT?
 * Perform `wc` on the notes. ✅
-       * `wc` after making plain text ✅guit
+       * `wc` after making plain text ✅
 * Commit a plain text version of the notes  ✅ 
 * Find the most commonly occurring word in notes	
   * [Stack Overflow link: Get text-file word occurrence count of all words & print output sorted](https://unix.stackexchange.com/questions/39039/get-text-file-word-occurrence-count-of-all-words-print-output-sorted)  	✅ 
