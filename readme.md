@@ -1,7 +1,5 @@
 ## Law Notes 
 
-#### See [the notes deployed on GitHub Pages](https://airbr.github.io/notes/) 
-
 ### Hobby side project to do some text analysis and generally demonstrate a bunch of small skills handling a file.
 
 #### Ideas:
@@ -23,14 +21,13 @@
 	* [Repo for Word Cloud library](https://github.com/amueller/word_cloud) 	
 * Install and create a Jupyter Notebook on the notes  ✅ 
 * Remix a Python Glitch App with the notes  ✅
-### [Check it out at Glitch](https://glitch.com/~aquamarine-cobalt)
 * Find script to find a random sentence in Java, Ruby ✅
 * Encrypt the text with gpg ✅
 * Create a HTML CSS only viewer of the notes
 * Do something with machine learning with the notes (stretch goal)
 * Create a `fortune` like Unix program or script that returns a fragment of the notes on command
 * Create a twitter bot that posts snippets of the text ✅
-    * Live at [@OObiter](https://twitter.com/OObiter)
+    * Formerly Live Twitter Bot Sample:
     ![twitterscreenshot](images/twitterbot.png)
 
 ## About the Notes
